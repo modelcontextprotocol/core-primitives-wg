@@ -1,7 +1,6 @@
 # Proposal: Unified Typed Tool Results
 
 **Contributors:** @kurtisvg  
-**Status:** 💬 Seeking Feedback  
 **Last Updated:** Nov 9, 2026
 
 ## Summary
