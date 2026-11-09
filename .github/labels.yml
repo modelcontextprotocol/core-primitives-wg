@@ -1,0 +1,23 @@
+# Roadmap topic labels indicate related work, not release commitments or priority.
+# WG leads apply them during triage; an issue or PR can have multiple topic labels.
+# The workflow previews changes on PRs and syncs on main or manual dispatch.
+# Labels omitted from this file are preserved; removing an entry does not delete it.
+- name: 'nomination'
+  color: 'd4c5f9'
+  description: 'Nomination for working group membership or leadership.'
+
+- name: 'member'
+  color: 'c2e0c6'
+  description: 'Working group member nomination.'
+
+- name: 'roadmap:tool-result-shape'
+  color: '5319e7'
+  description: 'Consistent semantics for structured and unstructured tool results.'
+
+- name: 'roadmap:progressive-discovery'
+  color: '1d76db'
+  description: 'Discovering tools and resources as needed, including interactions with caching.'
+
+- name: 'roadmap:primitive-annotations'
+  color: '006b75'
+  description: 'Content annotation semantics, intended audiences, priority, and adoption.'
